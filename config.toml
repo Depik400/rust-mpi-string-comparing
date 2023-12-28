@@ -1,0 +1,4 @@
+[env]
+MSMPI_LIB64 = { value = "C:/Program Files (x86)/Microsoft SDKs/MPI/Lib/x64", force = true}
+MSMPI_INC = { value = "C:/Program Files (x86)/Microsoft SDKs/MPI/Include", force = true}
+CARGO__PROFILE__DEV__DEBUG_ASSERTIONS = {value = "true"}

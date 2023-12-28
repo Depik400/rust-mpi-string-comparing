@@ -1,0 +1,1 @@
+cargo build --features="debug" &&  mpiexec.exe -np 3 .\target\debug\variant8.exe -o 10 --length-two 10
